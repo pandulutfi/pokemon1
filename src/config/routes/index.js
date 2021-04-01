@@ -8,13 +8,13 @@ const Routes = () => {
             <Switch>
                 <Route path="/login">
                     <Login />
-                <Route>
+                </Route>
                 <Route path="/register">
                     <Register />
-                <Route>
+                </Route>
                 <Route path="/">
                     <Home />
-                <Route>
+                </Route>
 
 
             </Switch>
